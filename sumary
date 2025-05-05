@@ -1,0 +1,47 @@
+ 1. **Pendahuluan Data Mining**
+
+* **Definisi dan Latar Belakang**
+  Data mining adalah proses menemukan pola atau informasi menarik dari kumpulan data besar dengan menggunakan teknik statistik, pembelajaran mesin, dan basis data.
+
+* **Tahapan Proses Data Mining**
+  Proses data mining biasanya melibatkan:
+
+  * Pemahaman bisnis
+  * Pemahaman data
+  * Persiapan data
+  * Pemodelan
+  * Evaluasi
+  * Implementasi
+
+### 2. **Data**
+
+* **Jenis dan Kualitas Data**
+
+  * Jenis data: numerik, kategorikal, ordinal, dan sebagainya.
+  * Kualitas data mencakup kelengkapan, konsistensi, akurasi, dan keberadaan data yang hilang/noisy.
+
+* **Preprocessing dan Teknik Pengukuran Data**
+
+  * Teknik preprocessing: pembersihan data, normalisasi, transformasi, dan reduksi.
+  * Pengukuran data: mencakup metrik statistik untuk mengevaluasi karakteristik data.
+
+### 3. **Eksplorasi Data**
+
+* **Statistik Data dan Visualisasi Data**
+
+  * Statistik deskriptif: mean, median, modus, standar deviasi.
+  * Visualisasi: grafik batang, histogram, boxplot, scatter plot untuk memahami distribusi dan hubungan antar data.
+
+### 4. **Klasifikasi**
+
+* **Konsep Dasar Klasifikasi**
+  Klasifikasi adalah teknik supervised learning untuk memetakan input data ke dalam kategori atau label tertentu.
+
+* **Algoritma Klasifikasi**
+
+  * **Decision Tree**: metode klasifikasi berbasis pohon keputusan.
+  * **Naïve Bayes**: metode probabilistik berdasarkan Teorema Bayes dengan asumsi independensi antar fitur.
+
+---
+
+Ingin saya bantu ubah menjadi dokumen `README.md` atau format presentasi juga?
